@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Vito
+## Hi there I'm Vito 👋
 
 I'm a software developer based in Berlin 🌍.  
 I specialize in backend, cloud and love building practial tools 🛠️.  
@@ -13,13 +13,21 @@ Outside of work you can find me at the gym 🏋🏻, reading 📚 or learning ne
 
 ## 🧰 Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+### 👨🏻‍💻 Code
 
-## 📌 Featured Projects
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+
+### 🏗️ Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge)
+
+## 📌 Featured Projects👨🏻‍💻
 
 - 🤖 [Pick And Place](https://github.com/vito-filo/pick_and_place) - Simulation of a robot that locates and manipulates objects.
 - 🪙 [Coin Detector](https://github.com/vito-filo/CoinDetector) - Android app that uses Tensorflow Lite to detect/classify coins.  
