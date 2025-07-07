@@ -6,7 +6,6 @@ Outside of work you can find me at the gym 🏋🏻, reading 📚 or learning ne
 
 ## 🚧 Currently Working On
 
-- 🔐 [Cloud Vault] – Password manager runnig in the cloud. You can access with Passkeys to store and share password with other people.
 - 🗂️ Planning:
   - [Smart Vehicle Manual] – AI virtual assistent to help you understand the features of your rented car.
   - [AR avatar] – Augmented reality experience where you can interact with an avatar that appears in your room.
@@ -29,6 +28,7 @@ Outside of work you can find me at the gym 🏋🏻, reading 📚 or learning ne
 
 ## 📌 Featured Projects👨🏻‍💻
 
+- 🔐 [Cloud Vault](https://github.com/vito-filo/cloudvault-backend) – Password manager runnig in the cloud. You can access with Passkeys to store and share password with other people.
 - 🤖 [Pick And Place](https://github.com/vito-filo/pick_and_place) - Simulation of a robot that locates and manipulates objects.
 - 🪙 [Coin Detector](https://github.com/vito-filo/CoinDetector) - Android app that uses Tensorflow Lite to detect/classify coins.  
   👷🏻 More coming soon...
