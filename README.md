@@ -4,11 +4,12 @@ I'm a software developer based in Berlin 🌍.
 I specialize in backend, cloud and love building practial tools 🛠️.  
 Outside of work you can find me at the gym 🏋🏻, reading 📚 or learning new software skills 🤓.
 
-## 🚧 Currently Working On
-
-- 🗂️ Planning:
-  - [Smart Vehicle Manual] – AI virtual assistent to help you understand the features of your rented car.
-  - [AR avatar] – Augmented reality experience where you can interact with an avatar that appears in your room.
+## 📌 Featured Projects👨🏻‍💻
+- ⛓️‍💥 [URL Shortener](https://short.filomenodev.studio/) - Transform long URLs into compact, shareable links. [code](https://github.com/vito-filo/url-shortener).
+- 🔐 [Cloud Vault](https://github.com/vito-filo/cloudvault-backend) – Password manager runnig in the cloud. You can access with Passkeys to store and share password with other people.
+- 🤖 [Pick And Place](https://github.com/vito-filo/pick_and_place) - Simulation of a robot that locates and manipulates objects.
+- 🪙 [Coin Detector](https://github.com/vito-filo/CoinDetector) - Android app that uses Tensorflow Lite to detect/classify coins.  
+  👷🏻 More coming soon...
 
 ## 🧰 Tech Stack
 
@@ -26,12 +27,11 @@ Outside of work you can find me at the gym 🏋🏻, reading 📚 or learning ne
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge)
 
-## 📌 Featured Projects👨🏻‍💻
+## 🚧 Currently Working On
 
-- 🔐 [Cloud Vault](https://github.com/vito-filo/cloudvault-backend) – Password manager runnig in the cloud. You can access with Passkeys to store and share password with other people.
-- 🤖 [Pick And Place](https://github.com/vito-filo/pick_and_place) - Simulation of a robot that locates and manipulates objects.
-- 🪙 [Coin Detector](https://github.com/vito-filo/CoinDetector) - Android app that uses Tensorflow Lite to detect/classify coins.  
-  👷🏻 More coming soon...
+- 🗂️ Planning:
+  - [Smart Vehicle Manual] – AI virtual assistent to help you understand the features of your rented car.
+  - [AR avatar] – Augmented reality experience where you can interact with an avatar that appears in your room.
 
 ## 📫 Contact Me
 
