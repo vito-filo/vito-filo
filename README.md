@@ -1,7 +1,7 @@
 ## Hi there I'm Vito 👋
 
 I'm a software developer based in Berlin 🌍.  
-I specialize in backend, cloud and love building practial tools 🛠️.  
+I specialize in backend, cloud and love building practical tools 🛠️.  
 Outside of work you can find me at the gym 🏋🏻, reading 📚 or learning new software skills 🤓.
 
 ## 📌 Featured Projects👨🏻‍💻
