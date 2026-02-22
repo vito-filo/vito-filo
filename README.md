@@ -6,9 +6,11 @@ Outside of work you can find me at the gym 🏋🏻, reading 📚 or learning ne
 
 ## 📌 Featured Projects👨🏻‍💻
 - ⛓️‍💥 [URL Shortener](https://short.filomenodev.studio/) - Transform long URLs into compact, shareable links. [code](https://github.com/vito-filo/url-shortener).
-- 🔐 [Cloud Vault](https://github.com/vito-filo/cloudvault-backend) – Password manager runnig in the cloud. You can access with Passkeys to store and share password with other people.
+- 🏎️ [AeroLab](https://aerolab-one.vercel.app/) - Wind Tunnel Telemetry Dashboard (WIP 🚧).
+- ⌨️ [typng-speed-test](https://vito-filo.github.io/typing-speed-test/) - A small typing game.
 - 🤖 [Pick And Place](https://github.com/vito-filo/pick_and_place) - Simulation of a robot that locates and manipulates objects.
-- 🪙 [Coin Detector](https://github.com/vito-filo/CoinDetector) - Android app that uses Tensorflow Lite to detect/classify coins.  
+- 🪙 [Coin Detector](https://github.com/vito-filo/CoinDetector) - Android app that uses Tensorflow Lite to detect/classify coins.
+- 🔐 [Cloud Vault](https://github.com/vito-filo/cloudvault-backend) – Password manager runnig in the cloud. You can access with Passkeys to store and share password with other people.
   👷🏻 More coming soon...
 
 ## 🧰 Tech Stack
