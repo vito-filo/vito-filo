@@ -5,6 +5,7 @@ I specialize in backend, cloud and love building practical tools 🛠️.
 Outside of work you can find me at the gym 🏋🏻, reading 📚 or learning new software skills 🤓.
 
 ## 📌 Featured Projects👨🏻‍💻
+- 🏋🏻 [PocketrAIner](https://pocketrainer.filomenodev.studio/) - Your AI personal trainer, in your pocket.
 - ⛓️‍💥 [URL Shortener](https://short.filomenodev.studio/) - Transform long URLs into compact, shareable links. [code](https://github.com/vito-filo/url-shortener).
 - ⌨️ [typng-speed-test](https://vito-filo.github.io/typing-speed-test/) - A small typing game.
 - 🤖 [Pick And Place](https://github.com/vito-filo/pick_and_place) - Simulation of a robot that locates and manipulates objects.
